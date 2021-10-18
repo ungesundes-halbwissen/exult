@@ -72,7 +72,7 @@ void Bwundiai object#(0x490) ()
 		{
 			case "name" (remove):
 				// His name was misspelled in his original code!
-				say("@Bwundiai my name is.@");
+				say("@Bwundai my name is.@");
 				BWUNDIAI->set_item_flag(MET);
 
 			case "Gwani" (remove):
