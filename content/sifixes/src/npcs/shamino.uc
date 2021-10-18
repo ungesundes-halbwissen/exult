@@ -98,7 +98,7 @@ void Shamino object#(0x402) ()
 		SHAMINO->makePartyFaceNPC();
 		if (!SHAMINO->get_item_flag(SI_ZOMBIE))
 		{
-			delayedBark(SHAMINO, "@Yes, " + avatarname + "?", 2);
+			delayedBark(SHAMINO, "@Yes, " + avatarname + "?@", 2);
 			SHAMINO->set_schedule_type(TALK);
 		}
 		else
