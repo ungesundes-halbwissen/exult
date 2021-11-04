@@ -7,11 +7,11 @@
 0x504:Wer hat meinen Stuhl bewegt??
 0x505:Du siehst aus, als wrde es dir gut gehn.
 0x506:Alles klar?
-0x507:Bereit fr das Dessert?
+0x507:Bereit fr den Nachtisch?
 0x508:Guten Appetit!
 0x509:Spezialitt des Hauses!
-0x50a:Avatar!  Benimm dich!
-0x50b:Hast Du bemerkt, da schon jemand im Bett liegt?
+0x50a:Avatar!  Benehmt Euch!
+0x50b:h, Ihr habt aber schon bemerkt, dass das Bett bereits belegt ist, oder?
 0x50c:Der Benutzer dieses Bettes wird wohl gerade keinen Wert auf Gesellschaft legen.
 0x50d:So einfach wirst du mich nicht los!
 0x50e:Ah, hier bist du!
@@ -26,9 +26,9 @@
 0x515:NEIN! Das darfst du nicht!
 0x516:Ich verfluche dich!  Sei verflucht!
 0x517:Die Schwarze Pforte ist zerstrt!
-0x518:Der Wchter konnte aufgehalten werden!
+0x518:Der Guardian konnte aufgehalten werden!
 # End1
-0x519:Avatar! Glaubst du, da du mich
+0x519:Avatar! Glaubst du, dass du mich
 0x51A:besiegt hast? Denk nochmal nach!
 0x51B:Du kannst Britannia nicht mehr
 0x51C:verlassen. Ich hingegen kann jede
@@ -40,11 +40,11 @@
 0x521:Es wird Monate dauern, bis Britannia
 0x522:sich von dieser entscheidenden
 0x523:Schlacht um die Schwarze Pforte
-0x524:und von den Intrigen des Wchters
+0x524:und von den Intrigen des Guardian
 0x525:erholen wird. Doch das
 0x526:Gute hat das Bse besiegt!
 0x527:Als Du nach Britain zurckkehrst,
-0x528:verkndet Lord British, da die
+0x528:verkndet Lord British, dass die
 0x529:Gemeinschaft ihrer Macht enthoben
 0x52A:und alle ihre Niederlassungen in
 0x52B:Britannia zerstrt werden sollten.
@@ -61,7 +61,7 @@
 # End4
 0x535:Zudem es dir momentan nicht mglich
 0x536:ist, etwas gegen die Drohung des
-0x537:Wchters auszurichten, beunruhigt
+0x537:Guardian auszurichten, beunruhigt
 0x538:dich auch noch ein anderer Gedanke...
 0x539:Was ist aus dem Satan Batlin
 0x53A:geworden, dem es auf irgendeine
@@ -74,12 +74,66 @@
 0x540:Ort namens Schlangeninsel,
 0x541:fhren wird ...
 #Congratulations
-0x542:Herzlichen Glckwunsch! Sie haben
-0x543:Ultima VII gemeistert! Sie brauchten
+0x542:Herzlichen Glckwunsch! Du hast
+0x543:Ultima VII gemeistert! Du brauchtest
 0x544:%d Jahr e ,  %d Monat e , und  %d Tag e .
-0x545:Bitte schreiben Sie Lord British und
-0x546:erzhlen Sie ihm und Origin Systems
-0x547:Inc., von Ihrer groartigen und
-0x548:bewundernswerten Leistung! Wir
-0x549:wrden uns ber Post aus
+0x545:Bitte schreibe doch Lord British auf
+0x546:Twitter unter @RichardGarriott und
+0x547:berichte ihm von deiner großartigen 
+0x548:und bewundernswerten Leistung! Er
+0x549:wird sich ber Nachricht aus
 0x54A:Deutschland freuen!
+#SI intro
+0x54B:Lord Britishs Schloss
+0x54C:Dick British's Castle
+0x54D:Achtzehn Monate nachdem die
+0x54E:Schwarze Pforte zerstoert und die
+0x54F:Gemeinschaft enttarnt wurde:
+0x550:Mein Lehnsherr
+0x551:Yo, homes
+0x552:Alles, was wir bei Batlin fanden,
+0x553:war diese magische Schriftrolle...
+0x554:und eine Karte, die einen Weg zu 
+0x555:dem Ort namens Schlangeninsel zeigt.
+0x556:Wohlan.
+0x557:Legt sie auf den Tisch!
+0x558:Iree. Slap it down there!
+0x559:Gebt Acht!
+0x55A:Jump Back!
+0x55B:Batlin! Fuer den unwahrscheinlichen
+0x55C:Fall, dass es dem Avatar gelingt,
+0x55D:die Schwarze Pforte zu zerstoeren,  
+0x55E:folge der arglosen Gwenno zur 
+0x55F:Schlangeninsel. Dort erklaere ich Dir, 
+0x560:wie wir Britannia zerstoeren werden!
+0x561:Batlin! Know that my face is most
+0x562:muppet like!
+0x563:You must go to the Serpent Isle
+0x564:to learn the secret of Acne Medication
+0x565:Soon I and my horde of muppets will
+0x566:destroy Britannia!
+0x567:So etwas hatte ich schon befuerchtet. 
+0x568:Ich muss den Avatar durch die Pforten
+0x569:zur Schlangeninsel schicken.
+#SI end
+0x56A:Es ist vollbracht.
+0x56B:Das Gleichgewicht ist wieder hergestellt.
+0x56C:Die Schlangeninsel, Britannia, Erde, 
+0x56D:das ganze Universum, alle gerettet.
+0x56E:Sorgt Euch nicht um Euren Freund, Dupre.
+0x56F:Er ist nun eins mit uns.
+0x570:Lebt wohl und
+0x571:Habt Dank, Avatar
+0x572:Sieh an, sieh an, Avatar. Wieder einmal hast
+0x573:Du es geschafft, meine Plaene zu vereiteln.
+0x574:Indem Du das Gleichgewicht wiederhergestellt 
+0x575:hast, wo einst nur Chaos herrschte, hast Du 
+0x576:deine verfluchte Welt gerettet.
+0x577:Aber jetzt bist Du hier... 
+0x578:am Rande der Ewigkeit. 
+0x579:Wohin willst Du jetzt?
+0x57A:Zurueck nach Britannia?
+0x57B:Zur Erde?
+0x57C:Vielleicht begleitest Du mich 
+0x57D:auf eine ganz andere Welt? Wir 
+0x57E:haben noch eine Rechnung zu begleichen.
